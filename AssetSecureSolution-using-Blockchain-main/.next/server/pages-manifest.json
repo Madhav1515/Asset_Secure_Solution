@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/campaigns/show": "pages/campaigns/show.js",
+  "/campaigns/compaign": "pages/campaigns/compaign.js",
+  "/campaigns/requests": "pages/campaigns/requests.js"
+}
